@@ -49,12 +49,26 @@ function generatePassword() {
   if (qrySpecialChar) {
     avalChars += specialChar
   }
+   //if none of the character types are selected, alerts the user to choose at least one
+   if (
+    !qryLowerCase && !qryUpperCase && !qryNumbers && !qrySpecialChar
+  ) {
+    return alert('Please select at least one criteria!');
+  }
+  for (let i = 0; i < passLength; i++) {
+  // Uses characters at random that were pulled into avalChars. Loops through
+  // the characters selecting them at random until theres enough characters to
+  // fill the password length
+    password += avalChars[Math.floor(Math.random() * avalChars.length)];
+  }
+  return password;
+}
+
   // Write password to the #password input
   function writePassword() {
     let password = generatePassword();
     let passwordText = document.querySelector('#password');
     passwordText.value = password;
   }
-}
   // Add event listener to generate button
   generateBtn.addEventListener('click', writePassword);
