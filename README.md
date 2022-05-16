@@ -1,7 +1,7 @@
 # password-generator
 
 
-![alt text](ss.png)
+![Screenshot](SS.png)
 
 
 https://github.com/VendettiStudios/password-generator
