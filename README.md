@@ -2,6 +2,6 @@
 ![Screenshot](SS.png)
 
 **Repository**
-https://github.com/VendettiStudios/password-generator
+https://github.com/VendettiStudios/generating-a-password-is-fun/
 **Live-Demo**
-https://vendettistudios.github.io/password-generator/
+https://vendettistudios.github.io/generating-a-password-is-fun/
