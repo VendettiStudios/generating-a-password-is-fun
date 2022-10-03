@@ -65,7 +65,7 @@ THEN the password is either displayed in an alert or written to the page
 ​
 ### Useful resources
 ​
-- [Example resource 1](https://owasp.org/www-community/password-special-characters) - 
+- [Owasp.org](https://owasp.org/www-community/password-special-characters) - 
 ​
 
 ## Author
