@@ -53,7 +53,7 @@ THEN the password is either displayed in an alert or written to the page
 ### Links
 ​
 - Live Site URL: [https://vendettistudios.github.io/generating-a-password-is-fun/](https://vendettistudios.github.io/generating-a-password-is-fun/)
-- Solution URL: [https://vendettistudios.github.io/generating-a-password-is-fun/](https://vendettistudios.github.io/generating-a-password-is-fun/)
+- Solution URL: https://github.com/VendettiStudios/generating-a-password-is-fun
 ​
 ## My process
 ​
