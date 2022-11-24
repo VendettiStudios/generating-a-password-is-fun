@@ -70,4 +70,4 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Author
 ​
-- Daniel@VendettiStudios.com
+[Daniel Holloway](https://danielholloway.dev)
